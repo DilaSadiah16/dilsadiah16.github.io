@@ -1,0 +1,205 @@
+{
+	"data":
+	[
+	  {
+	  	"img" : "assets/images/1.jpg",
+		"Nama": "Paradise Man",
+		"Harga":"Rp.399.000",
+		"hrg" :"Rp.729.000",
+		"diskon":"45%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/2.jpg",
+		"Nama": "Disgnise EDP",
+		"Harga":"Rp.299.000",
+		"hrg" :"Rp.599.000",
+		"diskon":"50%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/3.jpg",
+		"Nama": "Amber Elixir EDP",
+		"Harga":"Rp.439.000",
+		"hrg" :"Rp.629.000",
+		"diskon":"30%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/4.jpg",
+		"Nama": "Happydisiac",
+		"Harga":"Rp.349.000",
+		"hrg" :"Rp.629.000",
+		"diskon":"48%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/5.jpg",
+		"Nama": "Amazing Paradise",
+		"Harga":"Rp.399.000",
+		"hrg" :"Rp.729.000",
+		"diskon":"45%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/6.jpg",
+		"Nama": "Lip Spa Intense",
+		"Harga":"Rp.64.900",
+		"hrg" :"Rp.109.000",
+		"diskon":"40%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/7.jpg",
+		"Nama": "Lip Crayon",
+		"Harga":"Rp.72.900",
+		"hrg" :"Rp.145.000",
+		"diskon":"50%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/8.jpg",
+		"Nama": "Stylist Lipstic",
+		"Harga":"Rp.72.900",
+		"hrg" :"Rp.145.000",
+		"diskon":"50%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/9.jpg",
+		"Nama": "Lip Matte Mouse",
+		"Harga":"Rp.99.900",
+		"hrg" :"Rp.199.000",
+		"diskon":"50%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/10.jpg",
+		"Nama": "Lip Balm Series",
+		"Harga":"Rp.44.900",
+		"hrg" :"Rp.74.900",
+		"diskon":"40%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/11.jpg",
+		"Nama": "The One Contouring Kit",
+		"Harga":"Rp.159.000",
+		"hrg" :"Rp.239.000",
+		"diskon":"34%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/12.jpg",
+		"Nama": "Roll-On Deodorant",
+		"Harga":"Rp.44.900",
+		"hrg" :"Rp.57.900",
+		"diskon":"23%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/13.jpg",
+		"Nama": "Wide Open Mascara",
+		"Harga":"Rp.99.900",
+		"hrg" :"Rp.135.000",
+		"diskon":"26%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/14.jpg",
+		"Nama": "Everlasting Make Up",
+		"Harga":"Rp.139.000",
+		"hrg" :"Rp.199.000",
+		"diskon":"30%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/15.jpg",
+		"Nama": "Pallete Eye Shadow",
+		"Harga":"Rp.129.000",
+		"hrg" :"Rp.259.000",
+		"diskon":"50%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/16.jpg",
+		"Nama": "Foundation SPF 8",
+		"Harga":"Rp.239.000",
+		"hrg" :"Rp.345.000",
+		"diskon":"30%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/17.jpg",
+		"Nama": "Kohl Eye Pencil",
+		"Harga":"Rp.47.900",
+		"hrg" :"Rp.94.900",
+		"diskon":"50%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/18.jpg",
+		"Nama": "Wonder Liner",
+		"Harga":"Rp.72.900",
+		"hrg" :"Rp.145.000",
+		"diskon":"50%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/19.jpg",
+		"Nama": "Colour Correcting",
+		"Harga":"Rp.125.000",
+		"hrg" :"Rp.179.000",
+		"diskon":"30%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  },
+	  {
+	  	"img" : "assets/images/20.jpg",
+		"Nama": "CC Cream SPF 35",
+		"Harga":"Rp.189.000",
+		"hrg" :"Rp.269.000",
+		"diskon":"30%",
+		"rating":"assets/images/b1.png",
+		"alamat":"Bandung",
+		"toko":"Sadilshop"
+	  }
+	]
+}
